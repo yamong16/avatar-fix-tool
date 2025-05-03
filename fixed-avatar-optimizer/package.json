@@ -1,0 +1,14 @@
+{
+    "name": "com.yourname.avatar-optimizer",
+    "displayName": "Avatar Optimizer",
+    "version": "1.0.0",
+    "description": "A tool to optimize VRChat avatars.",
+    "unity": "2022.3",
+    "author": {
+        "name": "YourName",
+        "url": "https://your-site.com"
+    },
+    "vpmDependencies": {
+        "com.vrchat.avatars": ">=3.1.0"
+    }
+}
