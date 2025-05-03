@@ -1,15 +1,15 @@
 {
-    "name": "com.yourname.avatar-optimizer",
-    "id": "com.yourname.avatar-optimizer",
-    "url": "https://github.com/yamong16/avatar-optimizer.git",
-    "packages": {
-        "com.yourname.avatar-optimizer": {
-            "versions": {
-                "1.0.0": {
-                    "url": "https://github.com/yamong16/avatar-optimizer.git",
-                    "commit": "main"
-                }
-            }
+  "name": "com.yourname.avatar-optimizer",
+  "id": "com.yourname.avatar-optimizer",
+  "url": "https://github.com/yamong16/avatar.git",
+  "packages": {
+    "com.yourname.avatar-optimizer": {
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/yamong16/avatar.git",
+          "commit": "main"
         }
+      }
     }
+  }
 }
